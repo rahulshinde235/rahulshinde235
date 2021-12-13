@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rahulshinde235
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working as a Software Development Engineer
 - 💞️ I’m looking to collaborate on anything that solves a problem
 
 
